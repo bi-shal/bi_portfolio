@@ -52,7 +52,7 @@ h1{
     background-image: url(picture_1/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 
 
 }
@@ -95,5 +95,38 @@ h1{
                 /* section__3 */
 
 .section_3{
-    
+    background-image: url(picture_1/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }                
+
+.experience{
+    margin-left: 5%;
+}
+
+.both{
+    display: flex;
+    
+}
+
+.divv{
+    margin: 90px;
+    box-sizing: border-box;
+    border-left: 5px solid rgb(166, 114, 217);
+    padding: 30px;
+    box-shadow: 10px 0px 10px 10px gray;
+    border-radius: 10px;
+}
+
+.bothside{
+    margin-bottom: 10px;
+}
+
+.same{
+    margin-bottom: 8px;
+}
+
+.lorem{
+    text-align: center;
+    
+}
