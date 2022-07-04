@@ -7,6 +7,7 @@
     display: flex;
     background-image: url(picture_1/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom:30px ;
 }
 
 div.h1-welcome{
@@ -43,5 +44,56 @@ h1{
 }
 
 
+                        /* section__2 */
 
 
+.section_2{
+    display: flex;
+    background-image: url(picture_1/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 30px;
+
+
+}
+
+
+.img_2{
+    width: 50%;
+    margin-left: 20%;
+
+}
+
+.dreambig{
+    width: 50%;
+    margin-left: 10px;
+}
+
+.dream{
+    margin-bottom: 20px;
+   
+}
+.dream-2{
+    margin-bottom: 20px;
+}
+
+.lorem{
+    margin-bottom: 30px;
+    
+}
+.download{
+    text-decoration: none;
+    background-color: peru;
+    padding: 15px 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+
+
+                /* section__3 */
+
+.section_3{
+    
+}                
